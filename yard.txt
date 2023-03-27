@@ -7,3 +7,4 @@
 -bug fixed 2
 - optimized
 - feature 1
+- feature 2
