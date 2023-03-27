@@ -4,3 +4,5 @@
 - 1 bag of worm castings
 - couple of seed potatoes
 - bug fixed
+-bug fixed 2
+- optimized
