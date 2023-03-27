@@ -6,3 +6,4 @@
 - bug fixed
 -bug fixed 2
 - optimized
+- feature 2
