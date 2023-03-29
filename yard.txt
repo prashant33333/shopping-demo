@@ -7,7 +7,6 @@
 -bug fixed 2
 - optimized
 - feature 1
-- feature 1234567
 - feature 234567890123445
 - feature 3
 - feature 4
@@ -16,3 +15,6 @@
 -bug 6 fixed
 - bug 7 fixed
 - bug 8 fixed
+- bug 10 fixed
+- bug 12 fixed
+- bug 11 fixed
