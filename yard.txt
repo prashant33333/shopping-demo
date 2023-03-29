@@ -14,3 +14,5 @@
 -feature 4 bug fixed
 - bug 5 fixed
 -bug 6 fixed
+- bug 7 fixed
+- bug 8 fixed
