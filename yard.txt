@@ -12,4 +12,4 @@
 - feature 4
 -feature 4 bug fixed
 - bug 10 fixed
-
+- bug 12 fixed
