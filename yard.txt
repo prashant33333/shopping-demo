@@ -12,3 +12,5 @@
 - feature 3
 - feature 4
 -feature 4 bug fixed
+- bug 5 fixed
+-bug 6 fixed
